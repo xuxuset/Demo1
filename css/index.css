@@ -1,0 +1,10 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#xx{
+	width:200px;
+	height: 200px;
+	background: gold;
+	margin: 50px auto;
+}
